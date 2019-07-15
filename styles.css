@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(166, 247, 220);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
+
+h1::before {
+    content: 'hello';
+    color: white;
+    background: red;
+    display: block;
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+}
+
+h1::after {
+    content: 'world';
+    color: white;
+    background: red;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
