@@ -1,6 +1,6 @@
 ![]()
 
-# Welcome to [DavidDaDev](https://davidsoto.dev/) GitHub Page
+# Welcome to [DavidDaDev's](https://davidsoto.dev/) GitHub Page
 
 - Description:
 A clean simple page showcasing the affects of the after and before pseudo elements.
@@ -9,7 +9,7 @@ A clean simple page showcasing the affects of the after and before pseudo elemen
 
 To see the project live tap [here](https://daviddadev.github.io/before-and-after-pseudo-elements/), and thanks for visiting my GitHub. Enjoy.
 
-## Portfolio Site
+## Portfolio
 
 Visit my [website](http://davidsoto.dev/).
 
