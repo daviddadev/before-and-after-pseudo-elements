@@ -1,16 +1,17 @@
 ![]()
 
-# Welcome to DavidDaDev GitHub Page
+# Welcome to [DavidDaDev](https://davidsoto.dev/) GitHub Page
 
+- Description:
 A clean simple page showcasing the affects of the after and before pseudo elements.
-
-Feel free to look at my projects. If you want to drop a line visit my personal [website](http://davidsoto.dev/).
 
 ## Launch
 
-To see the project live tap [here](https://daviddadev.github.io/clean-css-blog/), and thanks for visiting my GitHub. Enjoy.
+To see the project live tap [here](https://daviddadev.github.io/before-and-after-pseudo-elements/), and thanks for visiting my GitHub. Enjoy.
 
-- David
+## Portfolio Site
+
+Visit my [website](http://davidsoto.dev/).
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
